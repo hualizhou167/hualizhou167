@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Computer Science Master's student specializing in Speech Synthesis,  enamored with emojis and lowercase typing  
+### I'm Huali, a computer science master's student specializing in speech synthesis,  enamored with emojis and lowercase typing  
 
 🌱 Currently learning Computer Science  
 🔭 Actively researching Speech Synthesis, Singing Voice Synthesis, and Kunqu Opera Synthesis  
